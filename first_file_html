@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My First Web Page</title>
+  </head>
+  <body>
+    <h1>My First Web Page</h1>
+    <hr />
+    <p>
+      This is my first web page! <br />
+      I'm learning HTML
+    </p>
+    <img src="./casio.jpg" alt="đây là ảnh casio" width="200" /><br />
+    <a href="mailto:cuongpc2k12@gmail.com">admin's gmail</a><br />
+    <a href="">Tải lại trang</a><br />
+  </body>
+</html>
